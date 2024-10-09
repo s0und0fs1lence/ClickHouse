@@ -176,3 +176,4 @@ tests/integration/**/_gen
 /rust/**/.cargo/config.toml
 /rust/**/vendor
 .devcontainer/
+contrib/
